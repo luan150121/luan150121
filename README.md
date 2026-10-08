@@ -169,10 +169,14 @@
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luan150121/luan150121/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luan150121/luan150121/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/luan150121/luan150121/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha animada das contribuições de luan150121" />
+  </picture>
 </p>
 
-> ⚠️ A animação acima é um exemplo de recurso que pode ser usado em perfis. Para ela funcionar usando suas próprias contribuições, normalmente é configurada com GitHub Actions.
+> 🐍 Animação gerada com minhas contribuições e atualizada diariamente pelo GitHub Actions.
 
 ---
 
