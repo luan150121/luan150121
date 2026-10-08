@@ -180,10 +180,11 @@
 
 ---
 
-## 🌎 Onde me encontrar
+## 🌎 Meus links
 
 <div align="center">
 
+[![Pixfew](https://img.shields.io/badge/Pixfew-Visite_o_site-2563EB?style=for-the-badge&labelColor=0D1117)](https://pixfew.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-luan150121-181717?style=for-the-badge&logo=github)](https://github.com/luan150121)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-em_breve-0A66C2?style=for-the-badge&logo=linkedin)
 
