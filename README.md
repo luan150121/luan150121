@@ -8,11 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Tecnologia%2C+programa%C3%A7%C3%A3o+e+projetos+pr%C3%B3prios;Sempre+aprendendo+alguma+coisa+nova+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=luan150121&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/luan150121?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/luan150121?affiliations=OWNER&style=for-the-badge&logo=github)
 
 </div>
 
