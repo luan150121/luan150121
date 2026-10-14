@@ -81,6 +81,7 @@
 
 ---
 
+<!-- Seção opcional: remova os marcadores de comentário para exibir novamente.
 ## 🧪 Coisas que gosto de explorar
 
 ```text
@@ -95,6 +96,7 @@
 ```
 
 ---
+-->
 
 ## 📚 Atualmente estudando
 
