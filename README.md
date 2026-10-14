@@ -59,21 +59,27 @@
 
 <div align="center">
 
+<!-- Card reservado para uso futuro (vr-lab).
 <a href="https://github.com/luan150121/vr-lab">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=luan150121&repo=vr-lab&theme=tokyonight&hide_border=true" />
 </a>
+-->
 
+<!-- Card reservado para uso futuro (petshop_management).
 <a href="https://github.com/luan150121/petshop_management">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=luan150121&repo=petshop_management&theme=tokyonight&hide_border=true" />
 </a>
+-->
 
 <a href="https://github.com/luan150121/Psicanalise">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=luan150121&repo=Psicanalise&theme=tokyonight&hide_border=true" />
 </a>
 
+<!-- Card reservado para uso futuro (homelab).
 <a href="https://github.com/luan150121/homelab">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=luan150121&repo=homelab&theme=tokyonight&hide_border=true" />
 </a>
+-->
 
 </div>
 
