@@ -30,12 +30,11 @@
 ### 💻 Linguagens
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 
+<!-- Seção Web e frameworks guardada para uso futuro.
 ### 🌐 Web e frameworks
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
@@ -43,6 +42,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
 ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet)
+-->
 
 ### 🧰 Ferramentas e ambiente
 
@@ -51,9 +51,7 @@
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
 
 ---
 
