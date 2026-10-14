@@ -81,44 +81,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan150121&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan150121&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=luan150121&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luan150121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luan150121&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## 🧪 Coisas que gosto de explorar
 
 ```text
