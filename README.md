@@ -98,14 +98,11 @@
 
 ## 📚 Atualmente estudando
 
-- Redes e infraestrutura
-- Desenvolvimento web
 - C# e .NET
 - Python
 - Unity
 - Bancos de dados
 - APIs e backend
-- Git/GitHub
 - Docker
 - VR / XR
 
