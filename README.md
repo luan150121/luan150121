@@ -111,6 +111,7 @@
 
 ---
 
+<!-- Seção opcional: remova os marcadores de comentário para exibir novamente.
 ## 🎯 Alguns projetos e ideias
 
 | Projeto | Área | Ideia |
@@ -122,6 +123,7 @@
 | **Psicanálise** | 🌐 Web | Projeto web com publicação via GitHub Pages |
 
 ---
+-->
 
 ## 🐍 Contribuições
 
