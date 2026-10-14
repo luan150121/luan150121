@@ -134,8 +134,6 @@
   </picture>
 </p>
 
-> 🐍 Animação gerada com minhas contribuições e atualizada diariamente pelo GitHub Actions.
-
 ---
 
 ## 🌎 Meus links
@@ -149,15 +147,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 “Aprender fazendo.”
-
-![Made with Markdown](https://img.shields.io/badge/Perfil_feito_com-Markdown-000?style=flat-square&logo=markdown)
-![Powered by Coffee](https://img.shields.io/badge/Powered_by-Curiosidade_%2B_Caf%C3%A9-000?style=flat-square)
-
-</div>
 
 <!--
 Ideias extras para testar depois:
