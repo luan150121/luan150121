@@ -18,7 +18,7 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💼 Atualmente trabalhando com **Suporte Técnico na KingHost | Locaweb**
 - 🧠 Gosto de aprender testando, quebrando e reconstruindo coisas
-- 🚀 Desenvolvo projetos próprios envolvendo **web, automação, servidores, IA, jogos e realidade virtual**
+- 🚀 Desenvolvo projetos próprios envolvendo **web, automação, servidores, IA, jogos e realidade aumentada**
 - 🥽 Explorando **Unity, VR, realidade mista e integração entre dispositivos**
 - 🏠 Também curto projetos de **homelab, servidores e automação**
 - 🎮 Jogos e tecnologia ocupam uma porcentagem perigosamente alta do meu cérebro
